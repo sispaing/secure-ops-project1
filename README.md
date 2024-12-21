@@ -1,7 +1,7 @@
 
 # secure-ops-project1
 # vault-dynamic-credential-infra-mgmt-demo
-Demo for Dynamic Credential and Infrastructure Management with Vault, AWS, and Terraform Cloud
+Demo for Secure Ops Project with Vault, AWS, and Terraform Cloud
 
 ### **Project Title:** SecureCloudOps: Dynamic Secrets Management and AWS Infrastructure Automation with HashiCorp Vault and Terraform
 
